@@ -1,0 +1,16 @@
+# 构建产物
+bin/
+obj/
+publish/
+
+# 诊断输出
+probe-output.txt
+
+# 用户级设置
+*.user
+.vs/
+.idea/
+
+# 系统文件
+Thumbs.db
+.DS_Store
